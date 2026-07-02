@@ -1,1 +1,0 @@
-# AtliQ-Sales-Insights-SQL
